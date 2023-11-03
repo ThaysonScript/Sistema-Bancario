@@ -1,0 +1,1 @@
+para diagrama de classes
