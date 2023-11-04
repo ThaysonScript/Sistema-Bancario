@@ -1,2 +1,2 @@
-# Sistema-Banc-rio
+# Sistema-Bancario
 Um sistema bancário em java
