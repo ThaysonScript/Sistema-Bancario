@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="65959b48-bc68-424f-b0bf-ba4b7fbd3952" name="Changes" comment="" />
+    <list default="true" id="65959b48-bc68-424f-b0bf-ba4b7fbd3952" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sistema_Bancario/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sistema_Bancario/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sistema_Bancario/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sistema_Bancario/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sistema_Bancario/Sistema_Bancario.iml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,7 +44,8 @@
     "onboarding.tips.debug.path": "/home/thayson-pc/Área de trabalho/Sistema-Bancario/src/models/src/Main.java",
     "project.structure.last.edited": "Problems",
     "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2"
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.editor.code.editing"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
