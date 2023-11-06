@@ -5,19 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="65959b48-bc68-424f-b0bf-ba4b7fbd3952" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sistema_Bancario/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sistema_Bancario/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sistema_Bancario/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sistema_Bancario/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sistema_Bancario/Sistema_Bancario.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/models/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/models/Pessoa.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -30,6 +33,9 @@
   &quot;associatedIndex&quot;: 2
 }</component>
   <component name="ProjectId" id="2XjuohDo0OB5z7NUoSuMXzppt8t" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -42,7 +48,7 @@
     "jdk.selected.JAVA_MODULE": "20",
     "last_opened_file_path": "/home/thayson-pc/Área de trabalho/Sistema-Bancario",
     "onboarding.tips.debug.path": "/home/thayson-pc/Área de trabalho/Sistema-Bancario/src/models/src/Main.java",
-    "project.structure.last.edited": "Problems",
+    "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "preferences.editor.code.editing"
@@ -62,11 +68,6 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/src/Main.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/models/src/Main.java</url>
           <line>13</line>
