@@ -1,17 +1,17 @@
 package models;
 
-import java.util.List;
+import java.util.ArrayList;
 
 public class Agencia {
     private int id;
     private String numero;
     private String endereco;
-    private List<Funcionario> gerentes;
-    private List<Funcionario> funcionarios;
-    private List<Conta> contas;
-    private List<Conta> clientes;
+    private ArrayList<Funcionario> gerentes;
+    private ArrayList<Funcionario> funcionarios;
+    private ArrayList<Conta> contas;
+    private ArrayList<Conta> clientes;
 
-    Agencia(String numero, String endereco, List<Funcionario> gerentes, List<Funcionario> funcionarios) {
+    Agencia(String numero, String endereco, ArrayList<Funcionario> gerentes, ArrayList<Funcionario> funcionarios) {
         setNumero(numero);
         setEndereco(endereco);
         setGerentes(gerentes);
@@ -42,11 +42,11 @@ public class Agencia {
         this.endereco = endereco;
     }
 
-    public List<Funcionario> getGerentes() {
+    public ArrayList<Funcionario> getGerentes() {
         return gerentes;
     }
 
-    public void setGerentes(List<Funcionario> gerentes) {
+    public void setGerentes(ArrayList<Funcionario> gerentes) {
         this.gerentes = gerentes;
     }
 
@@ -54,23 +54,23 @@ public class Agencia {
         return funcionarios;
     }
 
-    public void setFuncionarios(List<Funcionario> funcionarios) {
+    public void setFuncionarios(ArrayList<Funcionario> funcionarios) {
         this.funcionarios = funcionarios;
     }
 
-    public List<Conta> getContas() {
+    public ArrayList<Conta> getContas() {
         return contas;
     }
 
-    public void setContas(List<Conta> contas) {
+    public void setContas(ArrayList<Conta> contas) {
         this.contas = contas;
     }
 
-    public List<Conta> getClientes() {
+    public ArrayList<Conta> getClientes() {
         return clientes;
     }
 
-    public void setClientes(List<Conta> clientes) {
+    public void setClientes(ArrayList<Conta> clientes) {
         this.clientes = clientes;
     }
 }

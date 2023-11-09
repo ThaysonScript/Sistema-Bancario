@@ -1,9 +1,11 @@
-import repositories.CriarDados;
+//import repositories.CriarDados;
 
 public class Main {
     public static void main(String[] args) {
 //        System.out.println("slllll");
-    	CriarDados criar = new CriarDados();
-    	criar.criarDados();
+//    	CriarDados criar = new CriarDados();
+//    	criar.criarDados();
+    	
+    	Menu mostrarMenu = new Menu();
     }
 }

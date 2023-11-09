@@ -1,11 +1,11 @@
 package models;
 
-import java.util.List;
+import java.util.ArrayList;
 
 public class Banco {
     private int id;
     private String nome;
-    private List<Agencia> agencias;
+    private ArrayList<Agencia> agencias;
 
 //    construtor
     public Banco(String nome) {
@@ -48,11 +48,11 @@ public class Banco {
         this.nome = nome;
     }
 
-    public List<Agencia> getAgencias() {
+    public ArrayList<Agencia> getAgencias() {
         return agencias;
     }
 
-    public void setAgencias(List<Agencia> agencias) {
+    public void setAgencias(ArrayList<Agencia> agencias) {
         this.agencias = agencias;
     }
 }
